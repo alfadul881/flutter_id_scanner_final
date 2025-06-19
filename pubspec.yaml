@@ -1,0 +1,13 @@
+name: flutter_id_scanner_final_full
+description: A Flutter app for ID scanning and mock vehicle selection
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
